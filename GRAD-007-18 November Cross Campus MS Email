@@ -1,0 +1,240 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <style type="text/css">
+      ReadMsgBody{ width: 100%;}
+      .ExternalClass {width: 100%;}
+      .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+      body {-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;margin:0 !important;}
+      p { margin: 1em 0;}
+      table td { border-collapse: collapse;}
+      img {outline:0;}
+      a img {border:none;}
+      @-ms-viewport{ width: device-width;}
+    </style>
+    <style type="text/css">
+      @media only screen and (max-width: 480px) {
+        .container {width: 100% !important;}
+        .footer { width:auto !important; margin-left:0; }
+        .mobile-hidden { display:none !important; }
+        .logo { display:block !important; padding:0 !important; }
+        img { max-width:100% !important; height:auto !important; max-height:auto !important;}
+        .header img{max-width:100% !important;height:auto !important; max-height:auto !important;}
+        .photo img { width:100% !important; max-width:100% !important; height:auto !important;}
+        .drop { display:block !important; width: 100% !important; float:left; clear:both;}
+        .footerlogo { display:block !important; width: 100% !important; padding-top:15px; float:left; clear:both;}
+        .nav4, .nav5, .nav6 { display: none !important; }
+        .tableBlock {width:100% !important;}
+        .responsive-td {width:100% !important; display:block !important; padding:0 !important; }
+        .fluid, .fluid-centered {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        .fluid-centered {
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        /* MOBILE GLOBAL STYLES - DO NOT CHANGE */
+        body { padding: 0px !important; font-size: 16px !important; line-height: 150% !important;}
+        h1 { font-size: 22px !important; line-height: normal !important;}
+        h2 { font-size: 20px !important; line-height: normal !important;}
+        h3 { font-size: 18px !important; line-height: normal !important;}
+        .buttonstyles {
+          font-family:arial,helvetica,sans-serif !important;
+          font-size: 16px !important;
+          color: #FFFFFF !important;
+          padding: 10px !important;
+        }
+        /* END OF MOBILE GLOBAL STYLES - DO NOT CHANGE */
+      }
+      @media only screen and (max-width: 640px) {
+        .container { width:100% !important; }
+        .mobile-hidden { display:none !important; }
+        .logo { display:block !important; padding:0 !important; }
+        .photo img { width:100% !important; height:auto !important;}
+        .nav5, .nav6 { display: none !important;}
+        .fluid, .fluid-centered {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        .fluid-centered {
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+      }
+    </style>
+    <!--[if mso]>
+      <style type="text/css">
+          /* Begin Outlook Font Fix */
+              body, table, td {
+                 font-family : Arial, helvetica, sans-serif;
+                 line-height : 150%;
+                 font-size : 15px;
+                 color : #51575B;
+              }
+          /* End Outlook Font Fix */
+      </style>
+    <![endif]-->
+  </head>
+  <body bgcolor="#F1F1F1" text="#000000" style="-webkit-text-size-adjust:none;background-color : #F1F1F1; font-family : Arial, helvetica, sans-serif; line-height : 150%; font-size : 15px; color : #51575B; padding : 0px; ">
+    <div style="font-size:0; line-height:0;"><custom name="opencounter" type="tracking"><custom name="usermatch" type="tracking" /></div>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+      <tr>
+        <td align="center" valign="top">
+          <custom type="header"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <table cellspacing="0" cellpadding="0" border="0" width="600" class="container" align="center">
+            <tr>
+              <td>
+                <table class="tb_properties border_style" style="background-color : #FFFFFF; border : 0px;font-size : 15px; font-family : Arial, helvetica, sans-serif; line-height : 150%; color : #51575B; " cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="100%">
+                  <tr>
+                    <td align="center" valign="top">
+                      <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                          <!-- added padding here -->
+                          <td class="content_padding" style="padding : 0px; ">
+                            <!-- end of comment -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tr> <!-- top slot -->
+                                <td align="center" class="header" valign="top">
+                                  <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                        <tr>
+                                          <td align="left" valign="top">
+                                            <table cellspacing="0" cellpadding="0" style="width:100%">
+                                              <tbody>
+                                              <tr>
+                                                <td class="responsive-td" valign="top" style="width: 100%;">
+                                                  <table cellpadding="0" cellspacing="0" width="100%" style="background-color: #F1F1F1; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 20px 0px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0"><tr><td align="center"><a style="font-weight:normal;color:#3F7FBF;text-decoration:none;line-height:100%;" href="https://www.colorado.edu/business/?utm_source=email&utm_medium=email&utm_campaign=2018_crosscampus_gradrecruitment&utm_content=emnov_logo" title="Latest@Leeds" alias="Latest@Leeds - top image link" conversion="false" data-linkto="https://"><img data-assetid="29711" src="http://image.leeds.colorado.edu/lib/fe3915707564047f7c1c72/m/1/6290637a-5911-48aa-b46f-f0ac97310460.png" alt="Leeds School of Business" height="51" width="260" style="display: block; padding: 0px; text-align: center; height: 51px; width: 260px; border: 0px;"></a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://www.colorado.edu/business/ms-programs" title="" alias="" conversion="false" data-linkto="https://"><img data-assetid="36491" src="http://image.leeds.colorado.edu/lib/fe3915707564047f7c1c72/m/1/0dd5db6c-393a-4430-838e-04e960a6e4d8.jpg" height="255" width="600" style="display: block; padding: 0px; text-align: center; height: 255px; width: 600px; border: 0px;"></a></td></tr></table></td></tr></table>
+                                                </td>
+                                              </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                              <tr> <!-- main slot -->
+                                <td align="center" class="header" valign="top">
+                                  <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                    <tr>
+                                      <td align="left" valign="top">
+                                        <table cellspacing="0" cellpadding="0" style="width:100%">
+                                          <tbody>
+                                          <tr>
+                                            <td class="responsive-td" valign="top" style="width: 100%;">
+                                              <table cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 35px 40px 10px; " class="stylingblock-content-wrapper camarker-inner">Dear %%First Name%%,<p>
+ As you head home for the holidays, you may be thinking about what&rsquo;s next after graduation. If your post-CU future is still TBD, consider getting an advanced degree from the <a alias="Leeds School of Business" conversion="false" data-linkto="https://" href="https://www.colorado.edu/business/ms-programs" "="" style="color:#3F7FBF;text-decoration:none;" title="Leeds School of Business">Leeds School of Business</a>. Statistics show that when searching for a job, having a postgraduate degree can significantly increase your chances of getting hired and in many cases, raise your salary, too. In today&rsquo;s competitive job market, one more year of school can be a game-changer for your earning potential.</p><p>
+ Leeds offers <span style="color:#333333;"><b>six, one-year master's programs</b></span> that provide you with specialized knowledge and deepen the technical skills you&rsquo;ve already been building in your major&mdash;adding a little bit of business perspective to any area of study is always a win.</p><p>
+ Join us for an <a alias="exclusive MS info session for current CU Boulder seniors" conversion="false" data-linkto="https://" href="https://calendar.colorado.edu/event/cu_seniors_ms_information_session#.W-9I3uhKiUk?utm_source=email&utm_medium=email&utm_campaign=2018_crosscampus_gradrecruitment&utm_content=emnov_signup_txt" style="color:#3F7FBF;text-decoration:none;" title="exclusive MS info session for current CU Boulder seniors">exclusive MS info session for current CU Boulder seniors</a> on January 30, 2019 at Leeds and find out if you would qualify for a <span style="color:#333333;"><b>GMAT waiver</b></span>. We&rsquo;ll also waive the application fee, since you&rsquo;re a CU student!</p></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 0px 40px; "><table cellpadding="0" cellspacing="0" width="100%" style="background-color: #EEEEEE; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 20px 30px; " class="stylingblock-content-wrapper camarker-inner"><h1 style="color: rgb(0, 0, 0); font-family: Arial, helvetica, sans-serif; font-size: 22px; font-style: normal; font-weight: normal; line-height: 100%; text-align: center;">
+ CU Seniors MS Info Session</h1><p style="text-align: center;">
+ <span style="color:#333333;">Wednesday, January 30 12:00 | 1:00 pm<br>
+ Leeds School of Business, Room S233</span></p><div style="text-align: center; line-height: 150%;">
+ <span style="color:#333333;"><b>&bull;</b> Learn about the GMAT entrance exam waiver.</span></div><div style="text-align: center; line-height: 150%;">
+ <span style="color:#333333;"><b>&bull;</b> Find out about benefits exclusively for CU Boulder students.</span></div><div style="text-align: center; line-height: 150%;">
+ <span style="color:#333333;"><b>&bull;</b> Apply for free!&nbsp;</span></div><p style="text-align: center; line-height: 150%;">
+</p><div style="text-align: center;">
+ <a alias="" conversion="false" data-linkto="https://" href="https://calendar.colorado.edu/event/cu_seniors_ms_information_session#.W-9I3uhKiUk?utm_source=email&utm_medium=email&utm_campaign=2018_crosscampus_gradrecruitment&utm_content=emnov_signup_button" title=""><img data-assetid="36474" height="40" src="http://image.leeds.colorado.edu/lib/fe3915707564047f7c1c72/m/1/ffc39bc5-b945-4529-8cef-772c70c70221.png" style="padding: 0px; text-align: center; height: 40px; width: 300px; border: 0px;" width="300"></a></div></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 25px 40px 0px; " class="stylingblock-content-wrapper camarker-inner"><h1 style="color: rgb(0, 0, 0); font-size: 22px; font-weight: normal; line-height: 22px;">
+ Jumpstart your career</h1></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 40px 20px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 25%; padding-right: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://www.colorado.edu/business/ms-programs/ms-events-and-information-sessions?utm_source=email&utm_medium=email&utm_campaign=2018_crosscampus_gradrecruitment&utm_content=emnov_infosession_img" title="" alias="" conversion="false" data-linkto="https://"><img data-assetid="36482" src="http://image.leeds.colorado.edu/lib/fe3915707564047f7c1c72/m/1/fe05d55b-ee0d-4324-8951-9ef78752533e.jpg" width="127" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%; border: 0px;"></a></td></tr></table></td></tr></table></td><td valign="top" class="responsive-td" style="width: 75%; padding-left: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 0px 0px 15px; " class="stylingblock-content-wrapper camarker-inner"><span style="font-size:17px;"><span style="color:#000000;"><b><a alias="Upcoming MS information sessions at Leeds" conversion="false" data-linkto="https://" href="https://www.colorado.edu/business/ms-programs/ms-events-and-information-sessions?utm_source=email&utm_medium=email&utm_campaign=2018_crosscampus_gradrecruitment&utm_content=emnov_infosession_headline" style="color:#3F7FBF;text-decoration:none;" title="Upcoming MS information sessions at Leeds">Upcoming MS information sessions at Leeds</a></b></span></span><p>
+ In case you can&rsquo;t make it on Jan. 30, there are more opportunities to learn about Leeds&rsquo; MS programs. Our info sessions provide an overview of our six master's degrees and are an excellent introduction to our community.</p><a alias="" conversion="false" data-linkto="https://" href="https://www.colorado.edu/business/ms-programs/ms-events-and-information-sessions?utm_source=email&utm_medium=email&utm_campaign=2018_crosscampus_gradrecruitment&utm_content=emnov_infosession_button" title=""><img data-assetid="36475" height="40" src="http://image.leeds.colorado.edu/lib/fe3915707564047f7c1c72/m/1/5540094a-2638-4c82-9a9e-f4bad2444b2b.png" style="text-align: center; background-color: #EEEEEE; padding: 0px; height: 40px; width: 289px; border: 0px;" width="289"></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 20px 40px 30px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 25%; padding-right: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://www.youtube.com/watch?v=83QRFS0-zpU" title="" alias="" conversion="false" data-linkto="https://"><img data-assetid="36481" src="http://image.leeds.colorado.edu/lib/fe3915707564047f7c1c72/m/1/c70244a9-2525-48bb-821f-b6189b4ee9ca.jpg" width="127" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%; border: 0px;"></a></td></tr></table></td></tr></table></td><td valign="top" class="responsive-td" style="width: 75%; padding-left: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 0px 0px 15px; " class="stylingblock-content-wrapper camarker-inner"><span style="font-size:17px;"><span style="color:#000000;"><b><a alias="Confidence life hack – put business in your back pocket" conversion="false" data-linkto="https://" href="https://www.youtube.com/watch?v=83QRFS0-zpU" style="color:#3F7FBF;text-decoration:none;" title="Confidence life hack – put business in your back pocket">Confidence life hack &ndash; put business in your back pocket</a></b></span></span><p>
+ Business sense builds confidence in your personal and professional life. With a &ldquo;little business in your back pocket,&rdquo; you can go on to own it like Leeds alumna, Ann Mashburn who now owns her own fashion design house.</p> <a alias="" conversion="false" data-linkto="https://" href="https://www.youtube.com/watch?v=83QRFS0-zpU" title=""><img data-assetid="36476" height="40" src="http://image.leeds.colorado.edu/lib/fe3915707564047f7c1c72/m/1/0fb1a20d-1c60-472d-a349-016d3f81f655.png" style="text-align: center; background-color: #EEEEEE; padding: 0px; height: 40px; width: 187px; border: 0px;" width="187"></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 40px 40px; " class="stylingblock-content-wrapper camarker-inner"><h1 style="color:#000000;font-family:Arial, helvetica, sans-serif;font-size:22px;font-style:normal;font-weight:normal;line-height:100%;">
+ <a alias="Request more info on Leeds’ master's programs" conversion="false" data-linkto="https://" href="https://www.colorado.edu/business/ms-programs/masters-program-request-information" style="color:#3F7FBF;text-decoration:none;" title="Request more info on Leeds’ master's programs">Request more info on Leeds&rsquo; master's programs</a></h1><p>
+ Just one year in a Leeds master&rsquo;s program will accelerate your career growth. Our collaborative, hands-on courses will help you develop specialized expertise and give you the early-career professional focus you need to thrive. Send us a message to learn more about how we can help you reach your potential in exciting and high-growth industries.</p><p>
+ <span style="color:#000000;"><span style="font-size:17px;"><b>Check out our master&rsquo;s degrees:</b></span></span></p><ul>
+ <li>
+  <a alias="Accounting" conversion="false" data-linkto="https://" href="https://www.colorado.edu/business/ms-programs/masters-program-accounting?utm_source=email&utm_medium=email&utm_campaign=2018_crosscampus_gradrecruitment&utm_content=emnov_acct" style="color:#3F7FBF;text-decoration:none;" title="Accounting">Accounting</a></li><li>
+  <a alias="Business Analytics (online or on campus)&nbsp;" conversion="false" data-linkto="https://" href="https://www.colorado.edu/business/ms-programs/masters-program-business-analytics?utm_source=email&utm_medium=email&utm_campaign=2018_crosscampus_gradrecruitment&utm_content=emnov_ba" style="color:#3F7FBF;text-decoration:none;" title="Business Analytics (online or on campus)&nbsp;">Business Analytics (online or on campus)&nbsp;</a></li><li>
+  <a alias="Finance&nbsp;" conversion="false" data-linkto="https://" href="https://www.colorado.edu/business/ms-programs/masters-program-finance?utm_source=email&utm_medium=email&utm_campaign=2018_crosscampus_gradrecruitment&utm_content=emnov_fin" style="color:#3F7FBF;text-decoration:none;" title="Finance&nbsp;">Finance&nbsp;</a></li><li>
+  <a alias="Real Estate&nbsp;" conversion="false" data-linkto="https://" href="https://www.colorado.edu/business/ms-programs/masters-program-real-estate?utm_source=email&utm_medium=email&utm_campaign=2018_crosscampus_gradrecruitment&utm_content=emnov_re" style="color:#3F7FBF;text-decoration:none;" title="Real Estate&nbsp;">Real Estate&nbsp;</a></li><li>
+  <a alias="Supply Chain Management (online or on campus)&nbsp;" conversion="false" data-linkto="https://" href="https://www.colorado.edu/business/ms-programs/masters-program-supply-chain-management?utm_source=email&utm_medium=email&utm_campaign=2018_crosscampus_gradrecruitment&utm_content=emnov_sc" style="color:#3F7FBF;text-decoration:none;" title="Supply Chain Management (online or on campus)&nbsp;">Supply Chain Management (online or on campus)&nbsp;</a></li><li>
+  <a alias="​Taxation" conversion="false" data-linkto="https://" href="https://www.colorado.edu/business/ms-programs/masters-taxation?utm_source=email&utm_medium=email&utm_campaign=2018_crosscampus_gradrecruitment&utm_content=emnov_tax" style="color:#3F7FBF;text-decoration:none;" title="​Taxation">​Taxation</a></li></ul><p>
+ <br>
+ Best regards,<br>
+ Nate Holt<br>
+ <br>
+ Assistant Director | Admissions &amp; Outreach | MBA &amp; MS Programs<br>
+ Leeds School of Business<br>
+ 303.492.1832<br>
+ <a href="mailto:nate.holt@colorado.edu">nate.holt@colorado.edu</a></p></td></tr></table>
+                                            </td>
+                                          </tr>
+                                          </tbody>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                              
+                              
+                              
+                              
+                              <tr> <!-- main slot -->
+                                <td align="center" class="header" valign="top">
+                                  <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                    <tr>
+                                      <td align="left" valign="top">
+                                        <table cellspacing="0" cellpadding="0" style="width:100%">
+                                          <tbody>
+                                          <tr>
+                                            <td class="responsive-td" valign="top" style="width: 100%;">
+                                              <table cellpadding="0" cellspacing="0" width="100%" style="background-color: #F1F1F1; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 20px 0px 0px; " class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" class="socialshare-wrapper" width="100%"><tr><td align="center"><table cellpadding="0" cellspacing="0" align="center"><tr><td align="center"><!--[if mso]><table border="0" cellspacing="0" cellpadding="0"><tr><td style="padding-right:10px;"><![endif]--><table class="socialshare-innertable" style="display: inline-block"><tr><td style="padding:5px 10px"><a style="font-weight:normal;color:#3F7FBF;text-decoration:underline;line-height:100%;" href="http://www.instagram.com/leedsbiz/" alias="instagram follow"><img src="https://image.s4.exct.net/lib/fe911573736c007d7d/m/2/0e6fddf1-c205-4752-ad42-e9dc03c83dea.png" alt="Instagram" width="24" height="24" style="display: block;; width: 24px !important; height: 24px !important"></a></td></tr></table><!--[if mso]></td><td style="padding-right:10px;"><![endif]--><table class="socialshare-innertable" style="display: inline-block"><tr><td style="padding:5px 10px"><a style="font-weight:normal;color:#3F7FBF;text-decoration:underline;line-height:100%;" href="https://twitter.com/leedsbiz" alias="twitter follow"><img src="https://image.s4.exct.net/lib/fe911573736c007d7d/m/2/a3b47106-a80a-401f-8435-6b6398001c4f.png" alt="Twitter" width="24" height="24" style="display: block;; width: 24px !important; height: 24px !important"></a></td></tr></table><!--[if mso]></td><td style="padding-right:10px;"><![endif]--><table class="socialshare-innertable" style="display: inline-block"><tr><td style="padding:5px 10px"><a style="font-weight:normal;color:#3F7FBF;text-decoration:underline;line-height:100%;" href="https://www.facebook.com/leedscuboulder" alias="facebook follow"><img src="https://image.s4.exct.net/lib/fe911573736c007d7d/m/2/1a560d12-c8d7-40cb-9e90-9df36933fdfa.png" alt="Facebook" width="24" height="24" style="display: block;; width: 24px !important; height: 24px !important"></a></td></tr></table><!--[if mso]></td><td><![endif]--><table class="socialshare-innertable" style="display: inline-block"><tr><td style="padding:5px 10px"><a style="font-weight:normal;color:#3F7FBF;text-decoration:underline;line-height:100%;" href="https://www.linkedin.com/school/university-of-colorado-boulder---leeds-school-of-business/" alias="linkedin follow"><img src="https://image.s4.exct.net/lib/fe911573736c007d7d/m/2/df45eec7-2b51-455c-a5e1-9098496d6013.png" alt="LinkedIn" width="24" height="24" style="display: block;; width: 24px !important; height: 24px !important"></a></td></tr></table><!--[if mso]></td></tr></table><![endif]--></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" style="background-color: #F1F1F1; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table align="left" border="0" cellpadding="15px" cellspacing="0" class="mcnTextContentContainer" style="max-width:100%; min-width:100%;" width="100%">
+ 
+  <tr>
+   <td align="center" class="mcnTextContent" style="padding-top:20; padding-right:35px; padding-bottom:10px; padding-left:35px; background: ##F1f1f1; line-height: 18px;" valign="top">
+    <span style="color: rgb(32, 32, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif; font-size: 12px;">Leeds School of Business | University of Colorado Boulder<br>
+    303-492-8397 | <a href="mailto:leedsgrad@colorado.edu" style="text-size-adjust: 100%; color: rgb(43, 170, 223); font-weight: bold; text-decoration: none; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif; font-size: 12px;">leedsgrad@colorado.edu</a><br>
+    <a href="https://www.colorado.edu/business" style="text-size-adjust: 100%; color: rgb(43, 170, 223); font-weight: bold; text-decoration: none; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif; font-size: 12px;">www.colorado.edu/business</a> </span></td></tr></table></td></tr></table>
+                                            </td>
+                                          </tr>
+                                          </tbody>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">
+          <custom type="footer" />
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
